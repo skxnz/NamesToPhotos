@@ -19,4 +19,4 @@ This app was build by using:
 - [XCode]
 
 And of course NamesToPhotos app itself is open source with a _public repository_ 
-on GitHub.
+on GitHub
