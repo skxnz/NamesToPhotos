@@ -1,5 +1,5 @@
 # Names To Photos App
-## _By Alexandre Balla ( skxnz )_
+## _Tutorial app with extra feutures_
 
 Names to photos app allow you to save all your important events in a app by adding an image, title and description to your favourite ivent
 - Create, set, save, remember
